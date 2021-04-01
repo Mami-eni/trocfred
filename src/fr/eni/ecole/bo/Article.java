@@ -17,7 +17,7 @@ public class Article {
 	private int prixVente;
 	private Utilisateur utilisateur;
 	private Categorie categorie;
-	private String etatVente;
+	private String etatVentes;
 	
 	public Article() {}
 
